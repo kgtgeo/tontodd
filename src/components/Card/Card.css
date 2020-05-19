@@ -1,0 +1,29 @@
+.card {
+    width: 28.125rem;
+    height: 11.0625rem;
+    width: 14rem;
+    height: 5.5rem;
+    width: 21rem;
+    height: 7.75rem;
+
+
+    border-radius: 0.875rem;
+}
+
+.card--purple{
+    background-image: linear-gradient(243.52deg, #653FBB 0%, #BA67D3 100%);
+}
+
+.card--green {
+    background-image: linear-gradient(243.52deg, #3599CC -0.75%, #2ED4A6 100%);
+}
+
+.card--orange {
+    background-image: linear-gradient(243.52deg, #EE7764 0%, #F7BA71 100%);
+}
+
+.logo {
+    width: 3.515625rem;
+    height: 3.515625rem;
+}
+
