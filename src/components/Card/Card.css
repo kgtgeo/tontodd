@@ -1,13 +1,14 @@
+.cardinformation{
+    display: inline-flex;
+}
+
 .card {
-    width: 28.125rem;
-    height: 11.0625rem;
-    width: 14rem;
-    height: 5.5rem;
     width: 21rem;
     height: 7.75rem;
-
-
     border-radius: 0.875rem;
+    color: white;
+    position: relative;
+    margin: 1rem;
 }
 
 .card--purple{
@@ -22,8 +23,35 @@
     background-image: linear-gradient(243.52deg, #EE7764 0%, #F7BA71 100%);
 }
 
+.card__heading {
+    font-weight: normal;
+    font-size: 2rem;
+    position: absolute;
+    top: 5rem;
+    left: 1rem;
+}
+
+.card__totalcase {
+    font-weight: bold;
+    font-size: 3rem;
+    position: absolute;
+    top: 0.5rem;
+    left: 1rem;
+}
+
+.card__newcase {
+    font-weight: normal;
+    font-size: 2rem;
+    position: absolute;
+    top: 5rem;
+    right: 2rem;
+}
+
 .logo {
     width: 3.515625rem;
     height: 3.515625rem;
+    position: absolute;
+    top: 1rem;
+    right: 2rem;
 }
 
