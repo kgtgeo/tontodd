@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tontodd/static/css/main.8de68245.chunk.css",
+    "main.css": "/tontodd/static/css/main.9bdf673d.chunk.css",
     "main.js": "/tontodd/static/js/main.3880e360.chunk.js",
     "main.js.map": "/tontodd/static/js/main.3880e360.chunk.js.map",
     "runtime-main.js": "/tontodd/static/js/runtime-main.6dbbd825.js",
@@ -8,15 +8,15 @@
     "static/js/2.4174735f.chunk.js": "/tontodd/static/js/2.4174735f.chunk.js",
     "static/js/2.4174735f.chunk.js.map": "/tontodd/static/js/2.4174735f.chunk.js.map",
     "index.html": "/tontodd/index.html",
-    "precache-manifest.36c0497fe3e9d33da51968222be0bee2.js": "/tontodd/precache-manifest.36c0497fe3e9d33da51968222be0bee2.js",
+    "precache-manifest.842d327dffe11f531f15a2eef5cb8e04.js": "/tontodd/precache-manifest.842d327dffe11f531f15a2eef5cb8e04.js",
     "service-worker.js": "/tontodd/service-worker.js",
-    "static/css/main.8de68245.chunk.css.map": "/tontodd/static/css/main.8de68245.chunk.css.map",
+    "static/css/main.9bdf673d.chunk.css.map": "/tontodd/static/css/main.9bdf673d.chunk.css.map",
     "static/js/2.4174735f.chunk.js.LICENSE.txt": "/tontodd/static/js/2.4174735f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6dbbd825.js",
     "static/js/2.4174735f.chunk.js",
-    "static/css/main.8de68245.chunk.css",
+    "static/css/main.9bdf673d.chunk.css",
     "static/js/main.3880e360.chunk.js"
   ]
 }
