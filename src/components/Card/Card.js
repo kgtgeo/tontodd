@@ -40,20 +40,18 @@ class Card extends React.Component{
         return(
         <div className="cardinformation">
             <div className="card card--purple">
-                <div className="card__container">
                     <svg className="logo logo--cross" width="75" height="75" viewBox="0 0 75 75" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M26.8799 0V26.8799H0V48.1201H26.8799V75H48.1201V48.1201H75V26.8799H48.1201V0H26.8799Z" fill="#B564D1"/>
                     </svg>
                     <p className="card__heading">Positif</p>
                     {this.state.loading ? (
-                        <p>loading...</p>
+                        <p className="card__loading">loading...</p>
                     ) : (
                     <div>
                         <p className="card__totalcase">{this.state.info.positif}</p>
                         <p className="card__newcase">+{this.state.infoNewCase.NewConfirmed}</p>
                     </div>
-                    )}
-                </div>
+                    )}  
             </div>
 
             <div className="card card--green">
@@ -63,7 +61,7 @@ class Card extends React.Component{
                     </svg>
                     <p className="card__heading">Sembuh</p>
                     {this.state.loading ? (
-                        <p>loading...</p>
+                        <p className="card__loading">loading...</p>
                     ) : (
                     <div>
                         <p className="card__totalcase">{this.state.info.sembuh}</p>
@@ -80,7 +78,7 @@ class Card extends React.Component{
                     </svg>
                     <p className="card__heading">Meninggal</p>
                     {this.state.loading ? (
-                        <p>loading...</p>
+                        <p className="card__loading">loading...</p>
                     ) : (
                     <div>
                         <p className="card__totalcase">{this.state.info.meninggal}</p>

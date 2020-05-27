@@ -6,7 +6,7 @@
     width: 21rem;
     height: 7.75rem;
     border-radius: 0.875rem;
-    color: white;
+    color: black;
     position: relative;
     margin: 1rem;
 }
@@ -23,28 +23,58 @@
     background-image: linear-gradient(243.52deg, #EE7764 0%, #F7BA71 100%);
 }
 
+.card__loading {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+
+    width: 0rem;
+    height: 0rem;
+    border-radius: 0rem;
+    margin: 0rem;
+}
+
 .card__heading {
     font-weight: normal;
     font-size: 2rem;
     position: absolute;
-    top: 5rem;
+    right: 0rem;
+    bottom: 3rem;
     left: 1rem;
+    
+    width: 0rem;
+    height: 0rem;
+    border-radius: 0rem;
+    margin: 0rem;
+    
 }
 
 .card__totalcase {
     font-weight: bold;
     font-size: 3rem;
     position: absolute;
-    top: 0.5rem;
+    right: 0rem;
+    bottom: 7.5rem;
     left: 1rem;
+    
+    width: 0rem;
+    height: 0rem;
+    border-radius: 0rem;
+    margin: 0rem;
 }
 
 .card__newcase {
     font-weight: normal;
     font-size: 2rem;
     position: absolute;
-    top: 5rem;
-    right: 2rem;
+    right: 0rem;
+    bottom: 3rem;
+    left: 14rem;
+    
+    width: 0rem;
+    height: 0rem;
+    border-radius: 0rem;
+    margin: 0rem;
 }
 
 .logo {
@@ -52,6 +82,7 @@
     height: 3.515625rem;
     position: absolute;
     top: 1rem;
-    right: 2rem;
+    right: 0rem;
+    bottom: 0rem;
+    left: 15rem;
 }
-
