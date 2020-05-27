@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tontodd/static/css/main.9bdf673d.chunk.css",
-    "main.js": "/tontodd/static/js/main.3880e360.chunk.js",
-    "main.js.map": "/tontodd/static/js/main.3880e360.chunk.js.map",
+    "main.css": "/tontodd/static/css/main.ac1630f1.chunk.css",
+    "main.js": "/tontodd/static/js/main.d629737e.chunk.js",
+    "main.js.map": "/tontodd/static/js/main.d629737e.chunk.js.map",
     "runtime-main.js": "/tontodd/static/js/runtime-main.6dbbd825.js",
     "runtime-main.js.map": "/tontodd/static/js/runtime-main.6dbbd825.js.map",
     "static/js/2.4174735f.chunk.js": "/tontodd/static/js/2.4174735f.chunk.js",
     "static/js/2.4174735f.chunk.js.map": "/tontodd/static/js/2.4174735f.chunk.js.map",
     "index.html": "/tontodd/index.html",
-    "precache-manifest.842d327dffe11f531f15a2eef5cb8e04.js": "/tontodd/precache-manifest.842d327dffe11f531f15a2eef5cb8e04.js",
+    "precache-manifest.7f56cb5beb114000d42851d0f11cad1b.js": "/tontodd/precache-manifest.7f56cb5beb114000d42851d0f11cad1b.js",
     "service-worker.js": "/tontodd/service-worker.js",
-    "static/css/main.9bdf673d.chunk.css.map": "/tontodd/static/css/main.9bdf673d.chunk.css.map",
+    "static/css/main.ac1630f1.chunk.css.map": "/tontodd/static/css/main.ac1630f1.chunk.css.map",
     "static/js/2.4174735f.chunk.js.LICENSE.txt": "/tontodd/static/js/2.4174735f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6dbbd825.js",
     "static/js/2.4174735f.chunk.js",
-    "static/css/main.9bdf673d.chunk.css",
-    "static/js/main.3880e360.chunk.js"
+    "static/css/main.ac1630f1.chunk.css",
+    "static/js/main.d629737e.chunk.js"
   ]
 }
